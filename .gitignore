@@ -1,0 +1,5 @@
+parent/node_modules
+parent/dist
+
+weather/node_modules
+weather/dist
